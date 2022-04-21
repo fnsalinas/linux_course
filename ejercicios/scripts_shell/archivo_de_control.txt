@@ -1,0 +1,210 @@
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20335
+Usamos el parametro par1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20342
+Usamos el parametro par1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20385
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20386
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20387
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20388
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20389
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------INICIA ARCHIVO------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+El script p3.sh
+lo esta ejecutando ubuntu
+Y se el ha asignado el PID: 20390
+Usamos el parametro ARGUMENTO NUMERO 1
+Para decir... Hola Mundo
+
+
+Arrays: se accede através de indices
+miarray=(dato1 dato2 dato3)
+Accediendo a arrays: DOLAR + {miarray[indice]} -> echo DOLAR + {miarray[0]} DOLAR + {miarray[1]} DOLAR + {miarray[2]}
+Posición 0 -> DOLAR + {miarray[0]}: dato1
+Posición 1 -> DOLAR + {miarray[1]}:dato2
+Posición 2 -> DOLAR + {miarray[2]}:dato3
+Puedo acceder con -1 para ir desde el final hasta el comienzo
+Mostrar todos los elementos: DOLAR + {miarray[*]} o DOLAR + {miarray[@]}: dato1 dato2 dato3
+Mostrar la cantidad de elementos: DOLAR + {#miarray[@]}: 3
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 1 2
+Eliminar una posición del array: unset + miarray[indice]: unset miarray[1]
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 0 2
+Eliminar todo el array: unset + miarray
+Mostrar todos los indices: DOLAR + {!miarray[@]}: 
+------------------------------------------------------------------------------------------------------------------------------
+----------------------------------FINALIZA ARCHIVO----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
